@@ -1,3 +1,5 @@
+![logo](https://github.com/swarupcoding56/swarupcoding56/assets/150075661/11652be4-5ec0-4f26-a53c-e250af07acd0)
+
 <h1 align="center">Hi 👋, I'm SWARUP MITRA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
