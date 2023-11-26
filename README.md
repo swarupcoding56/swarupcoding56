@@ -12,7 +12,8 @@
 - ⚡ Fun fact **I AM NOT TOO MUCH FUNNY**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw07ER04pqWILoDVGz9JkSgl&ust=1701120697561000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDNgMTO4oIDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" src="![image](https://github.com/swarupcoding56/swarupcoding56/assets/150075661/11afd88c-b3a0-4916-b76a-c58c56a1443a)"
+">
 <p align="left">
 <a href="https://instagram.com/swarup3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarup3421" height="30" width="40" /></a>
 </p>
