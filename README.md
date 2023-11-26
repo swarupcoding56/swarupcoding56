@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I AM NOT TOO MUCH FUNNY**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" src="https://github.com/swarupcoding56/swarupcoding56/assets/150075661/fab61e4d-7e38-4937-b7f3-2f908a51ac8d">
+<img align="right" alt="coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wmzopbv94dbp98u2uuez2hlydeqvzpp30aspgsvh&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left">
 <a href="https://instagram.com/swarup3421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swarup3421" height="30" width="40" /></a>
 </p>
