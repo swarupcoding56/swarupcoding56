@@ -53,6 +53,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript)  
 ![React](https://skillicons.dev/icons?i=react)  
 ![Redux](https://skillicons.dev/icons?i=redux)
+
 **Backend & Database**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)  
 ![Express](https://skillicons.dev/icons?i=express)  
