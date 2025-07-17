@@ -47,13 +47,12 @@
 ## 🛠️ Tech Stack
 
 **Frontend**  
-<div style="display:flex flex-direction:row">
+
 ![HTML](https://skillicons.dev/icons?i=html)  
 ![CSS](https://skillicons.dev/icons?i=css)  
 ![JavaScript](https://skillicons.dev/icons?i=javascript)  
 ![React](https://skillicons.dev/icons?i=react)  
 ![Redux](https://skillicons.dev/icons?i=redux)
-</div>
 **Backend & Database**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs)  
 ![Express](https://skillicons.dev/icons?i=express)  
