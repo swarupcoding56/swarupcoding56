@@ -55,20 +55,20 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarupcoding56&repo=portfolio&theme=tokyonight" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
+ GitHub Stats
 
 <div align="center">
-  
-![Swarup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarupcoding56&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=swarupcoding56&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarupcoding56&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=swarupcoding56&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swarupcoding56&theme=tokyonight&hide_border=true" height="180em" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarupcoding56&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
-
----
 
 ## 🧠 Currently Building
 
