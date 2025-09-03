@@ -1,8 +1,8 @@
-                                       ![Logo Banner](https://github.com/swarupcoding56/swarupcoding56/assets/150075661/11652be4-5ec0-4f26-a53c-e250af07acd0)
+![Logo Banner](https://github.com/swarupcoding56/swarupcoding56/assets/150075661/11652be4-5ec0-4f26-a53c-e250af07acd0)
 
 <div align="center">
 
-                                                                        👋 Hi, I'm **Swarup Mitra**
+👋 Hi, I'm **Swarup Mitra**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=4DD0E1&center=true&vCenter=true&width=900&lines=I+am+Swarup+Mitra;Full+Stack+Web+Developer;Python+Developer;Java+Developer;MERN+Stack+Enthusiast;Problem+Solver;Digital+Creator)](https://github.com/swarupcoding56)
 
@@ -38,16 +38,13 @@
 
 <p align="left">
   <a href="https://github.com/swarupcoding56/SWARUP-CHATBOT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarupcoding56&repo=mern-ecommerce&theme=tokyonight" />
   </a>
   <a href="https://github.com/swarupcoding56/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarupcoding56&repo=markdown-blog&theme=tokyonight" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/swarupcoding56/react-weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=swarupcoding56&repo=ai-chat-app&theme=tokyonight" />
   </a>
 </p>
  GitHub Stats
